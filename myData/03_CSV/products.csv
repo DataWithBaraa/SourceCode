@@ -1,0 +1,56 @@
+product_number;category;product;brand;price
+1;Smartphone;Samsung Galaxy S20 Ultra;Samsung;999
+2;Smartphone;Apple iPhone 11 Pro;Apple;799
+3;Smartphone;Huawei P30 Pro;Huawei;489
+4;Smartphone;OnePlus 8 Pro;OnePlus;999
+5;Smartphone;Samsung Galaxy Note 10+;Samsung;899
+6;TV;LG OLED B9;LG;1300
+7;TV;Samsung QLED Q90;Samsung;3297
+8;TV;Sony A9G OLED;Sony;3490
+9;TV;LG OLED B8;LG;1999
+10;TV;Samsung QLED Q80;Samsung;1600
+11;Monitor;LG 27GL850;LG;469
+12;Monitor;Asus VG278Q;Asus;699
+13;Monitor;ViewSonic VX2758-2KP;ViewSonic;344
+14;Monitor;AOC CQ27G2;AOC;259
+15;Monitor;LG 32GK650F;LG;346
+16;Tablet;Apple iPad Pro;Apple;1099
+17;Tablet;Samsung Galaxy Tab S6;Samsung;300
+18;Tablet;Huawei MediaPad M5;Huawei;324
+19;Tablet;Samsung Galaxy Tab S5e;Samsung;392
+20;Tablet;Amazon Fire HD 10;Amazon;99
+21;Smart Speaker;Sonos One (Gen 2);Sonos;179
+22;Smart Speaker;Amazon Echo (3rd Gen);Amazon;99
+23;Smart Speaker;Amazon Echo Dot (3rd gen);Amazon;59
+24;Smart Speaker;Bose home speaker 300;Bose;199
+25;Smart Speaker;OontZ Angle 3 (3rd Gen);OontZ;255
+26;Smartwatch;Apple Watch Series 5;Apple;429
+27;Smartwatch;Samsung Galaxy Watch Active2;Samsung;249
+28;Smartwatch;Apple Watch Series 3;Apple;169
+29;Smartwatch;Fossil Gen 5;Fossil;236
+30;Smartwatch;Fitbit Versa 2;Fitbit;198
+31;Gaming Mouse;Razer DeathAdder v2;Razer;70
+32;Gaming Mouse;Logitech G502 Lightspeed;Logitech;119
+33;Gaming Mouse;Razer Basilisk v2;Razer;80
+34;Gaming Mouse;Corsair Ironclaw RGB;Corsair;55
+35;Gaming Mouse;Razer Naga Trinity;Razer;76
+36;Mouse;Logitech MX Master 3;Logitech;99
+37;Mouse;Logitech MX Anywhere S2;Logitech;59
+38;Mouse;Apple Magic Mouse 2;Apple ;74
+39;Mouse;Microsoft Bluetooth Mobile Mouse 3600;Microsoft;28
+40;Mouse;Logitech M570 Wireless Trackball ;Logitech;29
+41;Gaming Keyboard;SteelSeries Apex Pro;SteelSeries;199
+42;Gaming Keyboard;SteelSeries Apex 5;SteelSeries;116
+43;Gaming Keyboard;Razer Huntsman Elite;Razer;167
+44;Gaming Keyboard;Corsair K95 RGB Platinum;Corsair;199
+45;Gaming Keyboard;SteelSeries Apex 7 TKL;SteelSeries;90
+46;Wireless Headset;Steelseries Arctis 7;SteelSeries;99
+47;Wireless Headset;HyperX Cloud Flight ;HyperX;104
+48;Wireless Headset;SteelSeries Arctis Pro;SteelSeries;249
+49;Wireless Headset;Astro A50 ;Astro;194
+50;Wireless Headset;Corsair Virtuoso RGB ;Corsair;159
+51;Home Security Camera;Arlo Pro 3;Ario;399
+52;Home Security Camera;Wyze Cam Pan;WYZE;37
+53;Home Security Camera;Google Nest Cam;Google;296
+54;Home Security Camera;YI  Home Camera 1080p;YI;22
+55;Home Security Camera;Stick Up Cam Plug-In;Ring;99
